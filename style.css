@@ -1095,9 +1095,10 @@ img {
     left: 43px;
 }
 
-footer{
+footer {
     background-color: rgba(229, 235, 229, 0.288);
 }
+
 .container_7 {
     padding: 69px 151px;
     display: flex;
@@ -1185,10 +1186,11 @@ footer{
     font-size: 10px;
 }
 
-.boxes_6{
-     padding: 0 0 20px 150px;
+.boxes_6 {
+    padding: 0 0 20px 150px;
 }
-.About{
+
+.About {
     height: 3rem;
     width: 90%;
     border-radius: 8px;
@@ -1199,9 +1201,8 @@ footer{
     justify-content: space-between;
 }
 
-.About p{
-     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     font-weight: 500;
-     color: rgba(51, 48, 48, 0.849);
+.About p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgba(51, 48, 48, 0.849);
 }
-
