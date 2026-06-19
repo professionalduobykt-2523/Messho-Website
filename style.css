@@ -882,13 +882,12 @@ img {
 
 .container_6 {
     padding: 19px;
-    height: 178rem;
 }
 
 #product {
     font-size: 26px;
     padding-left: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 #product p {
@@ -898,8 +897,6 @@ img {
 
 
 .box {
-    display: flex;
-    flex-direction: column;
     margin-left: 30px;
     position: relative;
 }
@@ -926,7 +923,6 @@ img {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
     padding: 6px 115px 0 0;
-    overflow-y: scroll;
 }
 
 .select option {
@@ -983,7 +979,6 @@ img {
 
 
 .product_category img {
-
     height: 14px;
     width: 15px;
 }
@@ -994,7 +989,6 @@ img {
 
 
 .images_7 {
-    margin-top: 10px;
     position: absolute;
     top: 0;
     left: 21.6rem;
@@ -1079,9 +1073,6 @@ img {
 .rate_1 img {
     height: 8px;
     width: 8px;
-    position: absolute;
-    top: 7px;
-    left: 27px;
 }
 
 #Reviews {
@@ -1097,12 +1088,12 @@ img {
 
 footer {
     background-color: rgba(229, 235, 229, 0.288);
+    margin-top: 100%;
 }
 
 .container_7 {
     padding: 69px 151px;
     display: flex;
-
 }
 
 
