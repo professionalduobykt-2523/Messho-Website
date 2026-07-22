@@ -1424,8 +1424,7 @@ footer {
     }
 
     .btn {
-        right: 3%;
-        top: 25%;
+        top: 30%;
     }
 
     #first {
@@ -1648,7 +1647,7 @@ footer {
 
     .select {
         font-size: 7px;
-        padding: 0;
+        padding: 0px;
     }
 
     #firstName {
@@ -1761,6 +1760,14 @@ footer {
     .About p {
         font-size: 12px;
     }
+}
+
+@media (min-width:600px) {
+    .btn {
+        right: 4%;
+        top: 25%;
+    }
+
 }
 
 @media screen and (min-width:481px) and (max-width:575px) {
@@ -2003,7 +2010,7 @@ footer {
 
     .box {
         display: grid;
-        grid-template-columns:1fr;
+        grid-template-columns: 1fr;
     }
 
     #product p {
@@ -2141,12 +2148,13 @@ footer {
 
 @media screen and (max-width:480px) {
     #image {
-        width: 50vw;
+        width: 100vw;
         margin: 20px 10px;
     }
 
     #search {
         height: 20px;
+        width: 100%;
         margin: 10px 0;
     }
 
@@ -2156,7 +2164,7 @@ footer {
 
     #name_1 {
         font-size: 8px;
-        margin: 25px 0 25px 60px;
+        margin: 25px 10px;
     }
 
     #name_2 {
@@ -2337,34 +2345,33 @@ footer {
     }
 
     .flex {
-        /* gap: 20px; */
+        gap: 5px;
     }
 
     .img_23 {
-        height: 125px;
-        width: 60px;
+        height: 100px;
+        width: 55px;
     }
 
     .img_24 {
-        height: 125px;
-        width: 60px;
+        height: 100px;
+        width: 55px;
     }
 
     .img_25 {
-        height: 125px;
-        width: 60px;
+        height: 100px;
+        width: 55px;
     }
 
     .img_26 {
-        height: 125px;
-        width: 60px;
+        height: 100px;
+        width: 55px;
     }
 
     #button_5 button {
-        margin-bottom: 12px;
         padding: 5px;
         font-size: 5px;
-        width: 65px;
+        width: 50px;
     }
 
     #button_4 button {
@@ -2379,7 +2386,7 @@ footer {
 
     .box {
         display: grid;
-        grid-template-columns:1fr;
+        grid-template-columns: 1fr;
     }
 
     #product p {
@@ -2400,7 +2407,7 @@ footer {
 
     .select {
         font-size: 8px;
-        padding: 0 0 0 270px;
+        padding: 0 0 0 200px;
     }
 
     #firstName {
@@ -2412,39 +2419,39 @@ footer {
     }
 
     .img_27 img {
-        height: 140px;
-        width: 110px;
+        height: 60px;
+        width: 95px;
     }
 
     .box_4 {
         margin: 5px;
-        width: 120px;
+        width: 100px;
     }
 
     #names {
-        font-size: 12px;
+        font-size: 8px;
     }
 
     #rupes {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     #rupes_1 {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     #rupes_2 {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .rate_1 p {
-        font-size: 10px;
+        font-size: 8px;
         text-align: center;
         padding-right: 6px;
     }
 
     #Reviews {
-        font-size: 8px;
+        font-size: 6px;
     }
 
     footer {
@@ -2514,4 +2521,3 @@ footer {
         font-size: 12px;
     }
 }
-
