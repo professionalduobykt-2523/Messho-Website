@@ -1026,7 +1026,7 @@ footer {
 @media screen and (min-width:1024px) and (max-width:1279px) {
 
     .btn {
-        top: 20%;
+        top: 15%;
     }
 
     #first {
@@ -1150,7 +1150,7 @@ footer {
     }
 
     .btn {
-        top: 15%;
+        top: 14%;
     }
 
     #first {
@@ -1962,10 +1962,6 @@ footer {
         width: 80px;
     }
 
-    .flex {
-        /* gap: 20px; */
-    }
-
     .img_23 {
         height: 125px;
         width: 60px;
@@ -2178,8 +2174,7 @@ footer {
     }
 
     .btn {
-        right: 0%;
-        top: 15%;
+        top: 13%;
     }
 
     #first {
