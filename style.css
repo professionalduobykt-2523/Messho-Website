@@ -1765,14 +1765,6 @@ footer {
     }
 }
 
-@media (min-width:600px) {
-    .btn {
-        right: 4%;
-        top: 13%;
-    }
-
-}
-
 @media screen and (min-width:481px) and (max-width:575px) {
     #image {
         width: 50vw;
