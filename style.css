@@ -105,7 +105,7 @@ input::placeholder {
 
 .btn {
     position: absolute;
-    top: 200px;
+    top: 200px; 
     right: 50px;
 }
 
@@ -310,9 +310,9 @@ input::placeholder {
     justify-content: center;
     align-items: center;
     position: absolute;
-    width: 30%;
-    top: 18%;
-    right: 5%;
+    width: 20%;
+    top: 20%;
+    right: 10%;
 }
 
 .images_3 div {
@@ -1026,7 +1026,7 @@ footer {
 @media screen and (min-width:1024px) and (max-width:1279px) {
 
     .btn {
-        top: 30%;
+        top: 20%;
     }
 
     #first {
@@ -1149,7 +1149,7 @@ footer {
     }
 
     .btn {
-        top: 30%;
+        top: 15%;
     }
 
     #first {
@@ -1424,7 +1424,7 @@ footer {
     }
 
     .btn {
-        top: 30%;
+        top: 15%;
     }
 
     #first {
@@ -1765,7 +1765,7 @@ footer {
 @media (min-width:600px) {
     .btn {
         right: 4%;
-        top: 25%;
+        top: 13%;
     }
 
 }
@@ -1806,8 +1806,7 @@ footer {
     }
 
     .btn {
-        right: 5%;
-        top: 23%;
+        top: 13%;
     }
 
     #first {
