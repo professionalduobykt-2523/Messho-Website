@@ -1766,38 +1766,49 @@ footer {
 }
 
 @media screen and (min-width:481px) and (max-width:575px) {
+
+     .first_box{
+        height: 15vw;
+        flex-wrap:wrap;
+        justify-content:center;
+        align-items:center;
+        padding:10px;
+        gap:10px;
+    }
+
     #image {
-        width: 50vw;
-        margin: 20px 10px;
+        width:15vw;
+        height: 5vw;
+        margin: 0;
     }
 
     #search {
+        margin-top: -10px;
         height: 20px;
-        margin: 10px 0;
     }
 
     #search::placeholder {
-        font-size: 6px;
+        font-size: 8px;
     }
 
     #name_1 {
         font-size: 8px;
-        margin: 25px 0 25px 60px;
+        margin-top: -10px;
     }
 
     #name_2 {
         font-size: 8px;
-        margin: 25px 10px;
+        margin-top: -10px;
     }
 
     #profile {
-        font-size: 10px;
-        margin: 25px 10px;
+        font-size: 12px;
+         margin-top: -10px;
     }
 
     #cart {
-        font-size: 10px;
-        margin: 25px 0;
+        font-size: 12px;
+         margin-top: -10px;
     }
 
     .btn {
@@ -2138,39 +2149,49 @@ footer {
 }
 
 @media screen and (max-width:480px) {
+
+       .first_box{
+        height: 15vw;
+        flex-wrap:wrap;
+        justify-content:center;
+        align-items:center;
+        padding:10px;
+        gap:10px;
+    }
+
     #image {
-        width: 100vw;
-        margin: 20px 10px;
+        width:15vw;
+        height: 5vw;
+        margin: 0;
     }
 
     #search {
-        height: 20px;
-        width: 100%;
-        margin: 10px 0;
+        margin-top: -5px;
+        height: 15px;
     }
 
     #search::placeholder {
-        font-size: 6px;
+        font-size: 8px;
     }
 
     #name_1 {
-        font-size: 8px;
-        margin: 25px 10px;
+        font-size: 6px;
+        margin-top: -10px;
     }
 
     #name_2 {
-        font-size: 8px;
-        margin: 25px 10px;
+        font-size: 6px;
+        margin-top: -10px;
     }
 
     #profile {
         font-size: 10px;
-        margin: 25px 10px;
+         margin-top: -12px;
     }
 
     #cart {
         font-size: 10px;
-        margin: 25px 0;
+         margin-top: -12px;
     }
 
     .btn {
