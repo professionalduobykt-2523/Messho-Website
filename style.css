@@ -107,13 +107,13 @@ input::placeholder {
 
 .btn {
     position: absolute;
-    top: 20%; 
-    right: 5%;
+    top: 30%;
+    right: 6%;
 }
 
 #first {
     margin-top: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: azure;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bolder;
@@ -121,16 +121,16 @@ input::placeholder {
 
 #second {
     margin-top: 15px;
-    font-size: 35px;
+    font-size: 30px;
     color: azure;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bolder;
 }
 
 #button_1 {
-    width: 260px;
+    width: 150px;
     height: 40px;
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 7px 0;
     background-color: #ffffff;
     color: rgb(56, 5, 58);
@@ -421,7 +421,7 @@ input::placeholder {
 }
 
 #img_16 {
-   width: 200px;
+    width: 200px;
     background-image: url("image/img_16.webp");
     background-repeat: no-repeat;
     background-size: contain;
@@ -431,7 +431,7 @@ input::placeholder {
 }
 
 #img_17 {
-  width: 200px;
+    width: 200px;
     background-image: url("image/img_17.webp");
     background-repeat: no-repeat;
     background-size: contain;
@@ -441,7 +441,7 @@ input::placeholder {
 }
 
 #img_18 {
-  width: 200px;
+    width: 200px;
     background-image: url("image/img_18.webp");
     background-repeat: no-repeat;
     background-size: contain;
@@ -451,7 +451,7 @@ input::placeholder {
 }
 
 #img_19 {
-   width: 200px;
+    width: 200px;
     background-image: url("image/img_19.webp");
     background-repeat: no-repeat;
     background-size: contain;
@@ -461,7 +461,7 @@ input::placeholder {
 }
 
 #img_20 {
-   width: 200px;
+    width: 200px;
     background-image: url("image/img_20.webp");
     background-repeat: no-repeat;
     background-size: contain;
@@ -582,25 +582,25 @@ input::placeholder {
 
 #item_5 img {
     border-radius: 10px;
-height: 70px;
+    height: 70px;
     width: 100px;
 }
 
 #item_6 img {
     border-radius: 10px;
-   height: 70px;
+    height: 70px;
     width: 100px;
 }
 
 #item_7 img {
     border-radius: 10px;
-  height: 70px;
+    height: 70px;
     width: 100px;
 }
 
 #item_8 img {
     border-radius: 10px;
-   height: 70px;
+    height: 70px;
     width: 100px;
 }
 
@@ -1034,7 +1034,7 @@ footer {
     }
 
     #first {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     #second {
@@ -1042,62 +1042,67 @@ footer {
     }
 
     #button_1 {
-        padding: 0 15px;
-        width: 100px;
-        font-size: 15px;
+        padding: 0 10px;
+        width: 120px;
+        font-size: 16px;
     }
 
     #button_2 {
-        font-size: 10px;
+        font-size: 15px;
         height: 35px;
-        width: 125px;
+        width: 140px;
         bottom: 15px;
     }
 
-    .images_3 div{
+    .images_3 div {
         height: 150px;
         width: 150px;
     }
-    
-    .images_3{
+
+    .images_3 {
         width: 40%;
         top: 10%;
         gap: 10px;
     }
 
-    #img_14{
+    #img_14 {
         height: 200px;
         width: 150px;
     }
 
-    #img_15{
+    #img_15 {
         height: 200px;
         width: 150px;
     }
 
-    #img_16{
+    #img_16 {
         height: 200px;
         width: 150px;
     }
 
-    #img_17{
+    #img_17 {
         height: 200px;
         width: 150px;
     }
 
-    #img_18{
+    #img_18 {
         height: 200px;
         width: 150px;
     }
 
-    #img_19{
+    #img_19 {
         height: 200px;
         width: 150px;
     }
 
-    #img_20{
+    #img_20 {
         height: 200px;
         width: 150px;
+    }
+
+    #item_8 img {
+        margin-top: 10px;
+        height: 50px;
     }
 
     .img_23 {
@@ -1111,7 +1116,7 @@ footer {
     }
 
     .img_25 {
-         height: 220px;
+        height: 220px;
         width: 120px;
     }
 
@@ -1119,17 +1124,17 @@ footer {
         height: 220px;
         width: 120px;
     }
-    
+
     #button_5 button {
-        font-size: 9px;
+        font-size: 11px;
         width: 120px;
         height: 30px;
     }
 
     #button_4 button {
         font-size: 15px;
-        width: 125px;
-        height: 30px;
+        width: 150px;
+        height: 35px;
     }
 
     .flex {
@@ -1194,23 +1199,23 @@ footer {
         width: 25vw;
     }
 
-    .btn {
-        right: 10%;
-        top: 13%;
-    }
-
-
     #first {
         font-size: 15px;
     }
 
     #second {
-        font-size: 10px;
+        font-size: 20px;
+    }
+
+    .btn {
+        right: 5%;
+        top: 17%;
     }
 
     #button_1 {
         padding: 0 10px;
-        width: 100px;
+        height: 30px;
+        width: 120px;
         font-size: 13px;
     }
 
@@ -1238,7 +1243,7 @@ footer {
     }
 
     #img_12 {
-       height: 130px;
+        height: 130px;
         width: 130px;
     }
 
@@ -1248,52 +1253,53 @@ footer {
     }
 
     #img_10 {
-       height: 130px;
+        height: 130px;
         width: 130px;
     }
 
-    #img_14{
+    #img_14 {
         height: 200px;
         width: 150px;
     }
 
-    #img_15{
+    #img_15 {
         height: 200px;
         width: 150px;
     }
 
-    #img_16{
+    #img_16 {
         height: 200px;
         width: 150px;
     }
 
-    #img_17{
+    #img_17 {
         height: 200px;
         width: 150px;
     }
 
-    #img_18{
+    #img_18 {
         height: 200px;
         width: 150px;
     }
 
-    #img_19{
+    #img_19 {
         height: 200px;
         width: 150px;
     }
 
-    #img_20{
+    #img_20 {
         height: 200px;
         width: 150px;
     }
 
-    #img_21{
+    #img_21 {
         height: 200px;
         width: 150px;
     }
+
 
     #text h3 {
-        font-size: 10px;
+        font-size: 18px;
     }
 
     #text h3 img {
@@ -1305,7 +1311,13 @@ footer {
         font-size: 12px;
     }
 
+    #item_8 img {
+        margin-top: 10px;
+        height: 40px;
+    }
+
     .flex {
+        margin-left: 500px;
         gap: 10px;
     }
 
@@ -1347,7 +1359,7 @@ footer {
 
     .box {
         display: grid;
-        grid-template-columns: 200px 1fr;
+        grid-template-columns: 250px 1fr;
     }
 
     #product p {
@@ -1355,11 +1367,11 @@ footer {
     }
 
     .box_1 {
-        width: 260px;
+        width: 300px;
     }
 
     .box_2 {
-        width: 260px;
+        width: 300px;
     }
 
     #label {
@@ -1384,17 +1396,12 @@ footer {
         width: 140px;
     }
 
-    .box_3{
+    .box_3 {
         margin-left: 80px;
     }
 
-    .box_4 {
-        margin: 5px;
-        width: 140px;
-    }
-
     #names {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     #rupes {
@@ -1447,7 +1454,7 @@ footer {
         font-size: 12px;
     }
 
-    #text_1{
+    #text_1 {
         font-size: 100px;
     }
 
@@ -1484,46 +1491,52 @@ footer {
 }
 
 @media screen and (min-width:576px) and (max-width:767px) {
+
+    .container_1 {
+        width: 100%;
+    }
+
     #image {
-        width: 50vw;
-        margin: 10px 10px;
+        margin: 25px 10px;
+        width: 25vw;
     }
 
     #search {
-        height: 10px;
+        width: 100%;
+        height: 25px;
         margin: 10px 0;
     }
 
     #search::placeholder {
-        font-size: 6px;
+        font-size: 10px;
     }
 
     #name_1 {
-        font-size: 8px;
-        margin: 25px 0 25px 60px;
+        font-size: 10px;
+        margin: 26px 10px;
     }
 
     #name_2 {
-        font-size: 8px;
-        margin: 25px 10px;
+        font-size: 10px;
+        margin: 26px 0;
     }
 
     #profile {
-        font-size: 10px;
-        margin: 25px 10px;
+        font-size: 13px;
+        margin: 26px 10px;
     }
 
     #cart {
-        font-size: 10px;
-        margin: 25px 0;
+        font-size: 13px;
+        margin: 26px 0;
     }
 
     .btn {
-        top: 13%;
+        top: 20%;
     }
 
     #first {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     #second {
@@ -1531,10 +1544,9 @@ footer {
     }
 
     #button_1 {
-        padding: 0px;
-        height: 10px;
-        width: 60px;
-        font-size: 6px;
+        height: 25px;
+        width: 80px;
+        font-size: 10px;
     }
 
     #box p {
@@ -1546,50 +1558,81 @@ footer {
     }
 
     #img_2 {
-        height: 50px;
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_3 {
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_4 {
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_5 {
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_6 {
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_7 {
+        width: 120px;
+        height: 70px;
+    }
+
+    #img_8 {
+        width: 120px;
+        height: 70px;
     }
 
     .images {
         padding: 0 50px;
-        margin: 10px 0;
+        margin: 30px 0 0 0;
     }
 
     #button_2 {
-        font-size: 10px;
-        height: 10px;
+        font-size: 13px;
+        height: 25px;
         width: 100px;
-        bottom: 10px;
     }
 
-
     .images_3 {
-        top: 1%;
-        gap: 1px;
+        top: 0%;
+        right: 5%;
+        gap: 10px;
         width: 40%;
     }
 
     #img_11 {
-        height: 100px;
-        width: 100px;
+        height: 110px;
+        width: 80px;
     }
 
     #img_12 {
-        height: 100px;
-        width: 100px;
+        height: 110px;
+        width: 80px;
+        ;
     }
 
     #img_13 {
-        height: 100px;
-        width: 100px
+        height: 110px;
+        width: 80px;
     }
 
     #img_10 {
-        height: 100px;
-        width: 100px;
+        height: 110px;
+        width: 80px;
     }
 
     #text h3 {
-        font-size: 10px;
+        font-size: 20px;
     }
 
     #text h3 img {
@@ -1602,43 +1645,43 @@ footer {
     }
 
     #img_14 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_15 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_16 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_17 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_18 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_19 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_20 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #img_21 {
-        height: 150px;
-        width: 100px;
+        height: 180px;
+        width: 130px;
     }
 
     #item_1 img {
@@ -1677,52 +1720,55 @@ footer {
     }
 
     #item_8 img {
-        height: 55px;
+        margin-top: 10px;
+        height: 40px;
         width: 100px;
     }
 
-    .flex{
+    .flex {
+        margin-left: 550px;
         gap: 5px;
     }
+
     .img_23 {
-        height: 160px;
+        height: 150px;
         width: 80px;
     }
 
     .img_24 {
-        height: 160px;
+        height: 150px;
         width: 80px;
     }
 
     .img_25 {
-        height: 160px;
+        height: 150px;
         width: 80px;
     }
 
     .img_26 {
-        height: 160px;
+        height: 150px;
         width: 80px;
     }
 
     #button_5 button {
-        font-size: 10px;
-        width: 80px;
-        height: 25px;
+        font-size: 7px;
+        width: 70px;
+        height: 26px;
     }
 
     #button_4 button {
-        font-size: 10px;
-        width: 100px;
+        font-size: 13px;
+        width: 120px;
         height: 25px;
     }
 
     .container_6 {
-        padding: 10px;
+        padding: 20px;
     }
 
     .box {
         display: grid;
-        grid-template-columns: 100px 1fr;
+        grid-template-columns: 150px 1fr;
     }
 
     #product p {
@@ -1730,11 +1776,11 @@ footer {
     }
 
     .box_1 {
-        width: 150px;
+        width: 200px;
     }
 
     .box_2 {
-        width: 150px;
+        width: 200px;
     }
 
     #label {
@@ -1743,7 +1789,7 @@ footer {
 
     .select {
         font-size: 7px;
-        padding: 0px;
+        padding: 0 22px;
     }
 
     #firstName {
@@ -1751,12 +1797,12 @@ footer {
     }
 
     .product_category p {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .img_27 img {
-        height: 120px;
-        width: 100px;
+        height: 150px;
+        width: 120px;
     }
 
     .box_4 {
@@ -1765,7 +1811,7 @@ footer {
     }
 
     #names {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     #rupes {
@@ -1840,7 +1886,7 @@ footer {
     }
 
     #text_1 {
-        font-size: 8px;
+        font-size: 10px;
         text-align: center;
     }
 
@@ -1849,7 +1895,7 @@ footer {
     }
 
     .About {
-        height: 10px;
+        height: 35px;
         padding: 10px;
     }
 
@@ -1860,23 +1906,23 @@ footer {
 
 @media screen and (min-width:481px) and (max-width:575px) {
 
-     .first_box{
+    .first_box {
         height: 15vw;
-        flex-wrap:wrap;
-        justify-content:center;
-        align-items:center;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
         padding: 10px;
-        gap:10px;
+        gap: 10px;
     }
 
     #image {
-        width:10vw;
+        width: 10vw;
         height: 4vw;
         margin: 0;
     }
 
     #search {
-        margin-top: -10px;
+        margin:-10px 10px;
     }
 
     #search::placeholder {
@@ -1885,71 +1931,88 @@ footer {
 
     #name_1 {
         font-size: 8px;
-        margin-top: -10px;
+        margin-top:10px;
     }
 
     #name_2 {
         font-size: 8px;
-        margin-top: -10px;
+        margin-top: 10px;
     }
 
     #profile {
         font-size: 12px;
-         margin-top: -10px;
+        margin-top: 10px;
     }
 
     #cart {
         font-size: 12px;
-         margin-top: -10px;
+        margin-top: 10px;
     }
+
 
     #element p {
         font-size: 8px;
     }
 
-    #box p{
+    #box p {
         font-size: 8px;
     }
 
-    .btn {
-        top: 13%;
-    }
-
-    #img_2{
-        margin-top: 10px;
-    }
-    #img_3{
-        margin-top: 10px;
-    }
-    #img_4{
-        margin-top: 10px;
-    }
-    #img_5{
-        margin-top: 10px;
-    }
-    #img_6{
-        margin-top: 10px;
-    }
-    #img_7{
-        margin-top: 10px;
-    }
-    #img_8{
-        margin-top: 10px;
-    }
-
     #first {
-        font-size: 10px;
+        font-size: 15px;
     }
 
     #second {
+        font-size: 20px;
+    }
+
+
+    #img_2 {
+        margin-top: 10px;
+    }
+
+    #img_3 {
+        margin-top: 10px;
+    }
+
+    #img_4 {
+        margin-top: 10px;
+    }
+
+    #img_5 {
+        margin-top: 10px;
+    }
+
+    #img_6 {
+        margin-top: 10px;
+    }
+
+    #img_7 {
+        margin-top: 10px;
+    }
+
+    #img_8 {
+        margin-top: 10px;
+    }
+
+    .btn {
+        right: 1%;
+        top: 13%;
+    }
+
+    #first {
         font-size: 12px;
+    }
+
+    #second {
+        font-size: 15px;
     }
 
     #button_1 {
         padding: 0px;
-        height: 10px;
+        height: 20px;
         width: 60px;
-        font-size: 6px;
+        font-size: 8px;
     }
 
     #box p {
@@ -1961,45 +2024,70 @@ footer {
     }
 
     #img_2 {
-        height: 50px;
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_3 {
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_4 {
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_5 {
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_6 {
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_7 {
+        height: 60px;
+        width: 130px;
+    }
+
+    #img_8 {
+        height: 60px;
+        width: 130px;
     }
 
     .images {
-        padding: 0 50px;
-        margin: 10px 0;
+        padding: 15px 40px;
+        margin: 0;
+
     }
 
     #button_2 {
-        font-size: 8px;
-        height: 15px;
+        font-size: 9px;
+        height: 20px;
         width: 80px;
-        bottom: 10px;
-    }
-
-
-    .images_3 {
-        width: 30%;
-        top: 15%;
     }
 
     #img_11 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_12 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_13 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_10 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #text h3 {
@@ -2091,7 +2179,8 @@ footer {
     }
 
     #item_8 img {
-        height: 50px;
+        margin-top: 10px;
+        height: 30px;
         width: 80px;
     }
 
@@ -2118,18 +2207,18 @@ footer {
     #button_5 button {
         margin-bottom: 12px;
         padding: 5px;
-        font-size: 5px;
+        font-size: 7px;
         width: 65px;
     }
 
     #button_4 button {
-        font-size: 6px;
+        font-size: 10px;
         width: 80px;
-        height: 10px;
+        height: 20px;
     }
 
     .container_6 {
-        padding: 10px;
+        padding: 30px;
     }
 
     .box {
@@ -2272,23 +2361,23 @@ footer {
 
 @media screen and (max-width:480px) {
 
-       .first_box{
+    .first_box {
         height: 15vw;
-        flex-wrap:wrap;
-        justify-content:center;
-        align-items:center;
-        padding:10px;
-        gap:10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        gap: 10px;
     }
 
     #image {
-        width:15vw;
+        width: 15vw;
         height: 5vw;
         margin: 0;
     }
 
     #search {
-        margin-top: -5px;
+        margin-top: -15px;
         height: 15px;
     }
 
@@ -2308,53 +2397,61 @@ footer {
 
     #profile {
         font-size: 10px;
-         margin-top: -12px;
+        margin-top: -12px;
     }
 
     #cart {
         font-size: 10px;
-         margin-top: -12px;
+        margin-top: -12px;
     }
 
-    #element p{
+    #element p {
         font-size: 7px;
     }
 
-    .btn {
-        top: 13%;
+
+    #img_2 {
+        height: 50px;
+        margin-top: 20px;
     }
 
-    #img_2{
+    #img_3 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_3{
+
+    #img_4 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_4{
+
+    #img_5 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_5{
+
+    #img_6 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_6{
+
+    #img_7 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_7{
+
+    #img_8 {
         height: 50px;
         margin-top: 20px;
     }
-    #img_8{
-        height: 50px;
-        margin-top: 20px;
+
+    .btn {
+        right: 2%;
+        top: 10%;
     }
 
     #first {
-        font-size: 10px;
+        font-size: 9px;
     }
 
     #second {
@@ -2363,9 +2460,10 @@ footer {
 
     #button_1 {
         padding: 0px;
-        height: 10px;
+        height: 20px;
         width: 60px;
-        font-size: 6px;
+        font-size: 8px;
+        margin-top: 10px;
     }
 
     #box p {
@@ -2377,178 +2475,221 @@ footer {
     }
 
     #img_2 {
-        height: 50px;
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_3 {
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_4 {
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_5 {
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_6 {
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_7 {
+        height: 40px;
+        width: 180px;
+    }
+
+    #img_8 {
+        height: 40px;
+        width: 180px;
     }
 
     .images {
-        padding: 0 50px;
+        padding: 0 30px;
         margin: 10px 0;
     }
 
     #button_2 {
         font-size: 8px;
-        height: 15px;
-        width: 80px;
-        bottom: 10px;
+        height: 20px;
+        width: 60px;
+        bottom: 5px;
     }
 
     .images_3 {
         width: 30%;
-        top: 15%;
+        top: 5%;
     }
 
     #img_11 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_12 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_13 {
         height: 60px;
-        width: 60px;
+        width: 50px;
     }
 
     #img_10 {
         height: 60px;
-        width: 60px;
+        width: 50px;
+    }
+
+    .container_3 {
+        padding: 20px;
     }
 
     #text h3 {
-        font-size: 15px;
+        font-size: 10px;
     }
 
     #text h3 img {
-        height: 18px;
-        width: 23px;
+        height: 15px;
+        width: 18px;
     }
 
     #text p {
-        font-size: 12px;
+        font-size: 8px;
+    }
+
+    #text p img {
+        height: 10px;
+        width: 12px;
     }
 
     #img_14 {
-        height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_15 {
-       height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_16 {
-       height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_17 {
-       height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_18 {
-      height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_19 {
-      height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_20 {
-        height: 120px;
-        width: 100px;
+        height: 100px;
+        width: 70px;
     }
 
     #img_21 {
-       height: 120px;
+        height: 120px;
         width: 100px;
     }
 
     #item_1 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_2 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_3 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_4 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_5 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_6 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_7 img {
-        height: 50px;
-        width: 80px;
+        height: 40px;
+        width: 55px;
     }
 
     #item_8 img {
-        height: 50px;
-        width: 80px;
+        margin-top: 8px;
+        height: 30px;
+        width: 55px;
     }
 
     .flex {
         gap: 4px;
+        margin-left: 370px;
     }
 
     .img_23 {
-        height: 125px;
-        width: 70px;
+        height: 100px;
+        width: 50px;
     }
 
     .img_24 {
-       height: 125px;
-        width: 70px;
+        height: 100px;
+        width: 50px;
     }
 
     .img_25 {
-       height: 125px;
-        width: 70px;
+        height: 100px;
+        width: 50px;
     }
 
     .img_26 {
-     height: 125px;
-        width: 70px;
+        height: 100px;
+        width: 50px;
     }
 
     #button_5 button {
-        padding: 5px;
+        padding: 0;
         font-size: 5px;
-        width: 70px;
+        height: 20px;
+        width: 50px;
     }
 
     #button_4 button {
         font-size: 6px;
-        width: 80px;
-        height: 20px;
-        padding: 5px;
+        width: 50px;
+        height: 15px;
+        padding: 0;
     }
 
     .container_6 {
-        padding: 10px;
+        padding: 20px;
     }
 
     .box {
@@ -2569,30 +2710,30 @@ footer {
     }
 
     #label {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .select {
         font-size: 8px;
-        padding: 0 0 0 260px;
+        padding: 0 0 0 175px;
     }
 
     #firstName {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .product_category p {
-        font-size: 13px;
+        font-size: 10px;
     }
 
     .img_27 img {
-        height: 150px;
-        width: 97px;
+        height: 100px;
+        width: 73px;
     }
 
     .box_4 {
         margin: 5px;
-        width: 100px;
+        width: 80px;
     }
 
     #names {
@@ -2600,25 +2741,28 @@ footer {
     }
 
     #rupes {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     #rupes_1 {
-        font-size: 8px;
+        font-size: 6px;
     }
 
     #rupes_2 {
-        font-size: 8px;
+        font-size: 5px;
+    }
+
+    .rate_1 {
+        padding: 0;
+        width: 17px;
     }
 
     .rate_1 p {
-        font-size: 8px;
-        text-align: center;
-        padding-right: 6px;
+        font-size: 5px;
     }
 
     #Reviews {
-        font-size: 6px;
+        font-size: 4px;
     }
 
     footer {
@@ -2685,6 +2829,6 @@ footer {
     }
 
     .About p {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
